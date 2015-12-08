@@ -1,2 +1,8 @@
-We give you this tarball to help you begin your project. You are free to modify
-everything but the IPlugin interface.
+#JAVA_MyPaintSoft
+
+This program is a paint software, you can use for create and modify a picture format.
+It's modeling with a MVC and use IPlugin.
+We have a tarball with some tools.
+You have some filter (rotate, gray,..), you can also load a filtrer with the good method of filter...
+It's not finish, history of the modiciation is not coding (undo, redo).
+
